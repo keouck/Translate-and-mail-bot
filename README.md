@@ -1,1 +1,3 @@
 # Translate-and-mail-bot
+
+This bot detects which language you are typing in and translates it to english(by default, you can change which language to translate to in the code). It then mails it. This is helpful if you are trying to communicate to someone via email and dont know their language. You just have to type the message and it will translate and mail it to them automatically. Please note that google does not allow third party apps to use gmail and so you will have to disable this option. Just execute the program once and you will get an email from google. Follow the steps given in the mail to disable the feature.
